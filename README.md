@@ -1,4 +1,4 @@
-```markdown
+
 # Django Docker Image
 
 This Docker image is a complete solution for running Django applications in a containerized environment. Built on top of Ubuntu, it includes Python, pip, and virtual environment support to isolate and manage dependencies efficiently. The image is tailored for both local development and deployment in production-like environments, such as AWS EC2 instances or other cloud platforms.
